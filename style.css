@@ -27,3 +27,11 @@ section {
 .dev {
     color: rgb(255, 196, 0)
 }
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(to bottom right, rgb(134, 183, 223), blue);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+}
