@@ -69,3 +69,9 @@ h1 {
 .baby-dev {
     border-left: 10px solid steelblue;
 }
+
+.bottom {
+    background-image: url("portfolio pics/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
