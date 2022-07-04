@@ -55,8 +55,8 @@ h1 {
     box-shadow: 10px 10px 20px gray;
     margin-left: 40px;
     margin-right: 40px;
-    margin-bottom: 30px;
-    height: 200px;
+    margin-bottom: 100px;
+    height: 240px;
     padding-left: 20px;
     padding-top: 30px;
     border-radius: 10px;
@@ -73,5 +73,12 @@ h1 {
 .bottom {
     background-image: url("portfolio pics/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: left bottom;
+    background-position: left;
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Signika Negative', sans-serif
 }
