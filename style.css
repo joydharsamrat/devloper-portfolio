@@ -41,3 +41,11 @@ section {
     background-image: url("portfolio pics/top-banner.png");
     background-repeat: no-repeat;
 }
+
+.mid {
+    background-image: url("portfolio pics/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-right: 0%;
+
+}
