@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Signika Negative', sans-serif;
+    margin: 0%;
 }
 
 #me {
@@ -34,4 +35,9 @@ section {
     padding: 5px 10px;
     border-radius: 10px;
     color: white;
+}
+
+.top {
+    background-image: url("portfolio pics/top-banner.png");
+    background-repeat: no-repeat;
 }
